@@ -20,6 +20,11 @@ body {
     height: 350px;
 }
 
+.header {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
 .carrousel-image {
     display: none;
     margin: auto;
